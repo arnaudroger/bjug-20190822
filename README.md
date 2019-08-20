@@ -1,0 +1,1 @@
+https://github.com/jOOQ/jOOQ/tree/master/jOOQ-examples/Sakila
